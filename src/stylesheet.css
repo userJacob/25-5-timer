@@ -1,0 +1,59 @@
+body {
+    background-color: #262428;
+    color: #fbfdff;
+    justify-content: center;
+  }
+  
+  #app {
+    margin: auto;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    border: 5px solid #c4c6c8;
+    border-radius: 25px;
+    background-color: #161418;
+    box-shadow: inset 3px 3px 25px #262428, 3px 3px 15px #060408;
+    padding-bottom: 10px;
+  }
+  
+  #length-container {
+    justify-content: center;
+    display: flex;
+  }
+  
+  #break-container {
+    margin-right: 25px;
+  }
+  
+  h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .length-label {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    color: #fbfdff;
+    background-color: #161418;
+    border: #262428;
+    cursor: pointer;
+  }
+  
+  #time-left {
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  #timer-label {
+    margin-bottom: 0px;
+  }
+  
+  .under-button {
+    margin-bottom: 10px;
+    width: 80px;
+    height: 70px;
+  }
